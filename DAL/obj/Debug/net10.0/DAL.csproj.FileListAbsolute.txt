@@ -1,0 +1,12 @@
+D:\Windows Applications\Regions\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\Windows Applications\Regions\DAL\bin\Debug\net10.0\DAL.dll
+D:\Windows Applications\Regions\DAL\bin\Debug\net10.0\DAL.pdb
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.dll
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\DAL.pdb
+D:\Windows Applications\Regions\DAL\obj\Debug\net10.0\ref\DAL.dll

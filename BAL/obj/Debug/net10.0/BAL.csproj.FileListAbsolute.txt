@@ -1,0 +1,15 @@
+D:\Windows Applications\Regions\BAL\bin\Debug\net10.0\BAL.deps.json
+D:\Windows Applications\Regions\BAL\bin\Debug\net10.0\BAL.dll
+D:\Windows Applications\Regions\BAL\bin\Debug\net10.0\BAL.pdb
+D:\Windows Applications\Regions\BAL\bin\Debug\net10.0\DAL.dll
+D:\Windows Applications\Regions\BAL\bin\Debug\net10.0\DAL.pdb
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.csproj.AssemblyReference.cache
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.AssemblyInfoInputs.cache
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.AssemblyInfo.cs
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.csproj.CoreCompileInputs.cache
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.csproj.Up2Date
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.dll
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\refint\BAL.dll
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\BAL.pdb
+D:\Windows Applications\Regions\BAL\obj\Debug\net10.0\ref\BAL.dll
